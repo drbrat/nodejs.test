@@ -1,0 +1,25 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "opys",
+  "main": "server,js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "autor": "gkt",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drbrat/nodejs.test.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/drbrat/nodejs.test/issues"
+  },
+  "homepage": "https://github.com/drbrat/nodejs.test#readme"
+}
